@@ -1,5 +1,6 @@
-# DataMiningProject-MilitarySpending
-Data Mining Project - Military Spending Analysis using Python
+# Data Analysis - Military Spending
+## Data Mining Project 1
+Data Mining Project - Military Spending Analysis using __Python and Jupyter Notebook__
 
 ### 1.	State where the data came from
  __•	Military Spending Data:__ <br />
